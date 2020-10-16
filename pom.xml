@@ -810,7 +810,7 @@
                             <relocations>
                                 <relocation>
                                     <pattern>io.netty</pattern>
-                                    <shadedPattern>io.lettuce.core.lib</shadedPattern>
+                                    <shadedPattern>io.lettuce.core.lib.netty</shadedPattern>
                                 </relocation>
                             </relocations>
                         </configuration>
